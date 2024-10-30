@@ -13,7 +13,7 @@ A django template project with jwt authentication, mailing functionality, and pa
     ```sh
     git clone https://github.com/yourusername/django-template.git
     ```
-    ![Clone Repository](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+    ![Clone Repository](https://media1.tenor.com/m/BWSjplDydIEAAAAC/mirror-image.gif)
 2. Navigate to the project directory:
     ```sh
     cd django-template
